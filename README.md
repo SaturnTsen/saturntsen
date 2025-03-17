@@ -9,8 +9,8 @@ I’m currently researching **3D diffusion models** at the [Mediabrain](https://
 - **Domain-specific Code Generation with LLMs**  
   *Project Lead, École Polytechnique, Sep. 2024 - Present*  
   - Designed and implemented the **[Envision](https://www.lokad.com/fr/)** domain-specific code generation system from scratch.
-  - Developed a hybrid **RAG** pipeline integrating **FAISS semantic search** 🔍 and **cross-module dependency tracing**.
-
+  - Developed a hybrid **RAG** pipeline integrating **FAISS semantic search** 🔍.
+ 
 - **Research on AI Interpretability**  
   *Research Assistant, John-Hopcroft Center, SJTU, Jul. – Aug. 2024*  
   - Extracted **Shapley values** for knowledge distillation 🔬 and evaluated generalization ability in knowledge transfer.
