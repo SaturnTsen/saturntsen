@@ -1,8 +1,8 @@
-## About 👋
+## About
 
-Hi there! I’m **SaturnTsen**, currently pursuing a dual degree at **École Polytechnique** and **SJTU**, specializing in **statistics** 📊 and **random phenomena modeling**. My research focuses primarily on **computer vision** 👁️ and **Diffusion Models**.
+Hi there! I’m **SaturnTsen**, currently pursuing a dual degree at **École Polytechnique** and **SJTU**, specializing in **statistics** and **random phenomena modeling**. My research focuses primarily on computer vision and Diffusion Models.
 
-I’m currently researching **3D diffusion models** at the [Mediabrain](https://mediabrain.sjtu.edu.cn/) Laboratory, affiliated with the [Cooperative Media Innovation Center, SJTU](https://cmic.sjtu.edu.cn/CN/Default.aspx).
+I’m currently researching 3D diffusion models at the [Mediabrain](https://mediabrain.sjtu.edu.cn/) Laboratory, affiliated with the [Cooperative Media Innovation Center, SJTU](https://cmic.sjtu.edu.cn/CN/Default.aspx).
 
 ## My CV 📑
 
