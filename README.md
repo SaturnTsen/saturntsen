@@ -1,6 +1,6 @@
 ## About
 
-Hi there! I’m **SaturnTsen**, currently pursuing a dual degree at **École Polytechnique** and **SJTU**, specializing in **statistics** and **random phenomena modeling**. My research focuses primarily on computer vision and Diffusion Models.
+Hi there! I’m **SaturnTsen**, currently pursuing a dual degree at **École Polytechnique** and **SJTU**, specializing in **statistics** and **random phenomena modeling**.
 
 I’m currently working as a **Quantitative Developer** at a startup under the  **HEC Paris** startup incubator at **Station F**, focusing on the design and implementation of trading infrastructure and strategies.
 
