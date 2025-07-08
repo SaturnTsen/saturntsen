@@ -6,6 +6,6 @@ I’m currently working as a **Quantitative Developer** at a startup under the  
 
 Previously, I conducted research on neural network interpretability at the **John Hopcroft Center for Computer Science, SJTU**, and worked on 3D diffusion models at the [**Mediabrain**](https://mediabrain.sjtu.edu.cn/) Laboratory, affiliated with the [Cooperative Media Innovation Center, SJTU](https://cmic.sjtu.edu.cn/CN/Default.aspx).
 
-## My CV 📑
+## My CV
 
 For a more detailed overview, please refer to [my personal website](https://saturntsen.github.io/).
