@@ -2,7 +2,9 @@
 
 Hi there! I’m **SaturnTsen**, currently pursuing a dual degree at **École Polytechnique** and **SJTU**, specializing in **statistics** and **random phenomena modeling**. My research focuses primarily on computer vision and Diffusion Models.
 
-I’m currently researching 3D diffusion models at the [Mediabrain](https://mediabrain.sjtu.edu.cn/) Laboratory, affiliated with the [Cooperative Media Innovation Center, SJTU](https://cmic.sjtu.edu.cn/CN/Default.aspx).
+I’m currently working as a Quantitative Developer at a startup under the  HEC Paris startup incubator at Station F, focusing on the design and implementation of trading infrastructure and strategies.
+
+Previously, I conducted research on neural network interpretability at the John Hopcroft Center for Computer Science, and worked on 3D diffusion models at the [Mediabrain](https://mediabrain.sjtu.edu.cn/) Laboratory, affiliated with the [Cooperative Media Innovation Center, SJTU](https://cmic.sjtu.edu.cn/CN/Default.aspx).
 
 ## My CV 📑
 
