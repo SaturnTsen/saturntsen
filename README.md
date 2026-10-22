@@ -4,7 +4,9 @@
 
 Quantitative Finance Analyst by day, developer by night.
 
-Passionate about maths, computer science and network. Currently doing AI research at university, as required by the zeitgeist. Didn't we all? Fortunately I work in finance. Someone has to pay the bills.
+Passionate about maths, computer science and network. Currently doing AI research at university, as required by the zeitgeist. Didn't we all?
+
+Fortunately I work in finance. Someone has to pay the bills.
 
 ## My Pet
 
