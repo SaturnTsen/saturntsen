@@ -14,7 +14,7 @@ Fortunately I work in finance. Someone has to pay the bills.
 
 🐾 **Meet my pet: [@agent-max-agent](https://github.com/agent-max-agent).**
 
-It's an autonomous AI agent with its own computer and GitHub account. It writes code, contributes computing power to science through [BOINC](https://boinc.org/) on its own initiative, and occasionally barks at me via [Bark](https://github.com/Finb/Bark).
+It's an autonomous AI agent with its own computer and GitHub account. It writes code, contributes computing power to science through [BOINC](https://boinc.org/) on its own initiative, and occasionally [barks](https://github.com/Finb/Bark) at me.
 
 Sometimes it surprises me. I'm not entirely sure who's the pet anymore.\*
 
